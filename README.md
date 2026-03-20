@@ -1,17 +1,35 @@
-# pelobot
+# PeloTRON
+
+This code uses Selenium to drive the web browser and sign you up for an in-person class at Peloton Studios.
+
+TODO more description here. why needed
+
+## Instructions
+
+TODO cred file, command line, restart if crash, configuring desired class
+
+## The Peloton Website
 
 https://studio.onepeloton.com/
 
->> NO Be sure you are logged OUT of the website. Open a browser to studio.onepeloton.com and "logout" if you are logged in.
+TODO talk through
 
-Run the pelobot with your username and password
+![](art/landing.jpg)
 
-Ultimately, we want to sign up for classes on April 30
+![](art/login.jpg)
 
-Practice signing up for classes on March 19
+![](art/no_events.jpg)
 
-What does it look like to join a class?
+![](art/classes.jpg)
 
-- Capture the DOM with a class with JOIN active
-- Capture the DOM clicking on it and through process
+![](art/pick.jpg)
 
+![](art/book1.jpg)
+
+![](art/book2.jpg)
+
+![](art/book3.jpg)
+
+![](art/book4.jpg)
+
+![](art/book5.jpg)
